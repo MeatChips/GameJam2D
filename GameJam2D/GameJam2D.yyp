@@ -43,7 +43,7 @@
     {"id":{"name":"enemyTest","path":"sprites/enemyTest/enemyTest.yy",},},
     {"id":{"name":"heartHP","path":"sprites/heartHP/heartHP.yy",},},
     {"id":{"name":"playerBackwalkNew","path":"sprites/playerBackwalkNew/playerBackwalkNew.yy",},},
-    {"id":{"name":"playerFrontwalk","path":"sprites/playerFrontwalk/playerFrontwalk.yy",},},
+    {"id":{"name":"playerFrontwalkNew","path":"sprites/playerFrontwalkNew/playerFrontwalkNew.yy",},},
     {"id":{"name":"playerSidewalk","path":"sprites/playerSidewalk/playerSidewalk.yy",},},
     {"id":{"name":"playerTest","path":"sprites/playerTest/playerTest.yy",},},
     {"id":{"name":"UGLYPILLBOTTLE2","path":"sprites/UGLYPILLBOTTLE2/UGLYPILLBOTTLE2.yy",},},
