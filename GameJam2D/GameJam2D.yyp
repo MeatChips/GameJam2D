@@ -35,9 +35,11 @@
   },
   "name":"GameJam2D",
   "resources":[
+    {"id":{"name":"ItemPickup","path":"objects/ItemPickup/ItemPickup.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"rm_movement_test","path":"rooms/rm_movement_test/rm_movement_test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"itempickuptest","path":"sprites/itempickuptest/itempickuptest.yy",},},
     {"id":{"name":"playerTest","path":"sprites/playerTest/playerTest.yy",},},
   ],
   "resourceType":"GMProject",
