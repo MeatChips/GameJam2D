@@ -44,6 +44,7 @@
     {"id":{"name":"heartHP","path":"sprites/heartHP/heartHP.yy",},},
     {"id":{"name":"playerBackwalk","path":"sprites/playerBackwalk/playerBackwalk.yy",},},
     {"id":{"name":"playerFrontwalk","path":"sprites/playerFrontwalk/playerFrontwalk.yy",},},
+    {"id":{"name":"playerSidewalk","path":"sprites/playerSidewalk/playerSidewalk.yy",},},
     {"id":{"name":"playerTest","path":"sprites/playerTest/playerTest.yy",},},
     {"id":{"name":"UGLYPILLBOTTLE2","path":"sprites/UGLYPILLBOTTLE2/UGLYPILLBOTTLE2.yy",},},
   ],
