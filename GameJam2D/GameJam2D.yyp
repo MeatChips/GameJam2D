@@ -35,10 +35,13 @@
   },
   "name":"GameJam2D",
   "resources":[
+    {"id":{"name":"enemy","path":"objects/enemy/enemy.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"rm_movement_test","path":"rooms/rm_movement_test/rm_movement_test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"enemyTest","path":"sprites/enemyTest/enemyTest.yy",},},
     {"id":{"name":"playerTest","path":"sprites/playerTest/playerTest.yy",},},
+    {"id":{"name":"UGLYPILLBOTTLE2","path":"sprites/UGLYPILLBOTTLE2/UGLYPILLBOTTLE2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
