@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+hp = 2;
 
 
-enemyrr.hp = -1
-
-instance_destroy();
