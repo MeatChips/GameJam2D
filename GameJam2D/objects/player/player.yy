@@ -32,9 +32,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"playerTest",
-    "path":"sprites/playerTest/playerTest.yy",
+    "name":"playerFrontwalkNew",
+    "path":"sprites/playerFrontwalkNew/playerFrontwalkNew.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"playerFrontwalkNew",
+    "path":"sprites/playerFrontwalkNew/playerFrontwalkNew.yy",
+  },
   "visible":true,
 }
