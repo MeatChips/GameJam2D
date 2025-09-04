@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"enemyTest",
-    "path":"sprites/enemyTest/enemyTest.yy",
+    "name":"enemyCharacter",
+    "path":"sprites/enemyCharacter/enemyCharacter.yy",
   },
   "spriteMaskId":null,
   "visible":true,
