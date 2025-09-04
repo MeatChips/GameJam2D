@@ -1,4 +1,4 @@
-movementSpeed = .25;
+movementSpeed = 1.5;
 global.playerCatched = false;
 player_hit = false;
 timer = 0;
